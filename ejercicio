@@ -1,0 +1,5 @@
+num=float(input("Escriba un numero positivo"))
+if num>0 :
+print ("Numero correctamente ingresado")
+else:
+print("Por favor, no escriba nuemeros negativos")
